@@ -1,16 +1,4 @@
 # ui_challenge_2
 
-A new Flutter project.
+https://github.com/James1412/UIChallenge_2/assets/73318218/d9994d30-f68a-48ba-9b12-cd3f3bdbd483
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
